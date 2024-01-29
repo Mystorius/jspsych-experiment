@@ -1,0 +1,17 @@
+{
+  "name": "jspsych-experiment",
+  "version": "1.0.0",
+  "description": "a jspsyche experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsspyche"
+  ],
+  "author": "benjamin pohl",
+  "license": "CC-BY-NC-ND-3.0-DE",
+  "dependencies": {
+    "uglify-js": "^3.17.4"
+  }
+}
